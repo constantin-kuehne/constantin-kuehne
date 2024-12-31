@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--- 🎓 I’m currently finshing my Bachelor of Science in Business Informatics-->
-- 🎓 I’m currently starting my Master of Science in Data Engineering
+- 🎓 I’m currently studying for a Master of Science in Data Engineering
 <!--- 💻 I’m a dual student, working half time while studying-->
 <!--- 💼 I’ve been working as a Data Scientist for 3.5 years-->
 - 📊 I’m interested in all things data and like to always learn more in this field
